@@ -3,6 +3,7 @@
  */
 public class SummerHolydays {
     public static void main(String[] args) {
-        System.out.println("Як я проведу літо? ... буду вчитись на GoIT!");
+        System.out.println("Як я проведу літо?");
+        System.out.println("... буду вчитись на GoIT!");
     }
 }
